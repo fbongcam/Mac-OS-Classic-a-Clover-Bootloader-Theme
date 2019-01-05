@@ -46,10 +46,10 @@ Custom Font<br />
 Smaller monitors will also have a Classic Mac OS styled scrollbar when needed.</p>
 
 
-​
 
 
-Notes:
+
+Notes:<br />
 I couldn't really get the scrollbar to work exactly as intended for now, seems to be a really buggy feature.
 I might take requests for icons etc. if there's interest, we'll see.
 Designed with 2.5K monitors in mind, let me know if something doesn't look right at other resolutions.
