@@ -1,7 +1,7 @@
-
-<p align="center">Mac OS Classic - A Clover Theme by Machinee</p>
-(Work in progress)
-
+<p align="center">
+  Mac OS Classic - A Clover Theme by Machinee<br />
+  (Work in progress)
+</p>
 
 
 
