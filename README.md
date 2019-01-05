@@ -50,8 +50,8 @@ Smaller monitors will also have a Classic Mac OS styled scrollbar when needed.</
 
 
 Notes:<br />
-I couldn't really get the scrollbar to work exactly as intended for now, seems to be a really buggy feature.
-I might take requests for icons etc. if there's interest, we'll see.
+I couldn't really get the scrollbar to work exactly as intended for now, seems to be a really buggy feature.<br />
+I might take requests for icons etc. if there's interest, we'll see.<br />
 Designed with 2.5K monitors in mind, let me know if something doesn't look right at other resolutions.
 
 
