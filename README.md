@@ -42,7 +42,7 @@ Custom Font<br />
 
 
 
-<p align="center">The non selected entries will turn to life with colors when selected.
+<p align="center">The non selected entries will turn to life with colors when selected.<br />
 Smaller monitors will also have a Classic Mac OS styled scrollbar when needed.</p>
 
 
