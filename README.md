@@ -4,10 +4,9 @@
 
 
 
-<p align="center">
-![screen](Mac-OS-Classic/screenshots/screen.png)
-Format: ![Alt Text](url)
-</p>
+
+![screen](/screenshots/screen.png)
+
 
 
 
@@ -24,28 +23,22 @@ Custom Icons<br />
 Custom Font<br />
 </p>
 
-<p align="center">
-![screen](Mac-OS-Classic/screenshots/classic_logo.gif)
-Format: ![Alt Text](url)
-</p> 
+
+![screen](/screenshots/classic_logo.gif)
 
 
-<p align="center">
-![screen](Mac-OS-Classic/screenshots/screen_selection_small.jpg)
-Format: ![Alt Text](url)
-</p>
+
+![screen](/screenshots/screen_selection_small.jpg)
 
 
-<p align="center">
-![screen](Mac-OS-Classic/screenshots/screen_font.jpg)
-Format: ![Alt Text](url)
-</p>
+
+![screen](/screenshots/screen_font.jpg)
 
 
-<p align="center">
-![screen](Mac-OS-Classic/screenshots/screen_scrollbar.jpg)
-Format: ![Alt Text](url)
-</p>
+
+![screen](/screenshots/screen_scrollbar.jpg)
+
+
 
 
 
