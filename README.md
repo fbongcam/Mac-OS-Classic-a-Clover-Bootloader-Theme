@@ -1,5 +1,7 @@
+
+  <h2 align="center">Mac OS Classic</h2><br />
 <p align="center">
-  Mac OS Classic - A Clover Theme by Machinee<br />
+  A Clover Theme by Machinee<br />
   (Work in progress)
 </p>
 
@@ -14,9 +16,8 @@
 It has the features of the Classic Mac OS with a modern look.</p>
 
 
-<p align="center">Features</p>
-
-<p align="center">
+**<p align="center">
+Features<br />**
 Animated Banner<br />
 Scrollbar<br />
 Custom Icons<br />
@@ -48,15 +49,13 @@ Smaller monitors will also have a Classic Mac OS styled scrollbar when needed.</
 
 
 
-<p>
-Notes:<br />
+*Notes*:<br />
 I couldn't really get the scrollbar to work exactly as intended for now, seems to be a really buggy feature.<br />
 I might take requests for icons etc. if there's interest, we'll see.<br />
 Designed with 2.5K monitors in mind, let me know if something doesn't look right at other resolutions.
-</p>
 
 
 
 
 
-<p align="center">Enjoy!</p>
+**<p align="center">Enjoy!</p>**
