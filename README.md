@@ -1,8 +1,5 @@
 
   <h2 align="center">Mac OS Classic</h2><br />
-<p align="center">
-  (Work in progress)
-</p>
 
 
 
