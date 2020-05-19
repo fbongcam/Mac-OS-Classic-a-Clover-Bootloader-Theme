@@ -1,7 +1,6 @@
 
   <h2 align="center">Mac OS Classic</h2><br />
 <p align="center">
-  A Clover Theme<br />
   (Work in progress)
 </p>
 
